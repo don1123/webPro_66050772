@@ -1,0 +1,37 @@
+p {
+    color: #01011e;
+    font-family: 'Arial', sans-serif;
+}
+
+.my-style {
+    color: rgb(230, 154, 4);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#main-title {
+    color: rgb(0, 0, 0);
+}
+
+body {
+    background-color: lightgray;
+    margin: 20px;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+div {
+    justify-content: center;
+    align-items: center;
+}
+table{
+    padding: 10px;
+}
+th{
+    padding: 8px;
+    text-align: center;
+}
+td{
+    padding: 12px;
+    text-align: center;
+}
